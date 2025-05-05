@@ -1,131 +1,103 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Perfil no GitHub</title>
-   <style>
-    * { box-sizing: border-box; margin: 0; padding: 0; }
-    body {
-      font-family: Arial, sans-serif;
-      background: #f4f4f4;
-      color: #333;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      min-height: 100vh;
-    }
-    .card {
-      background: #fff;
-      width: 90%;
-      max-width: 500px;
-      padding: 1.5rem;
-      border-radius: 8px;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-      text-align: center;
-    }
-    .card img {
-      width: 120px;
-      height: 120px;
-      border-radius: 50%;
-      object-fit: cover;
-      margin-bottom: 1rem;
-    }
-    .card h1 {
-      font-size: 1.5rem;
-      margin-bottom: .25rem;
-    }
-    .card p.bio {
-      font-style: italic;
-      margin-bottom: 1rem;
-      color: #555;
-    }
-    .stats {
-      display: flex;
-      justify-content: space-around;
-      margin-bottom: 1rem;
-    }
-    .stats div {
-      text-align: center;
-    }
-    .stats div span {
-      display: block;
-      font-weight: bold;
-      margin-top: .25rem;
-    }
-    .repos {
-      text-align: left;
-    }
-    .repos h2 {
-      font-size: 1.25rem;
-      margin-bottom: .5rem;
-      border-bottom: 1px solid #eee;
-      padding-bottom: .25rem;
-    }
-    .repos ul {
-      list-style: none;
-    }
-    .repos li {
-      margin-bottom: .5rem;
-    }
-    .repos a {
-      color: #0366d6;
-      text-decoration: none;
-    }
-    .repos .stars {
-      margin-left: .5rem;
-      color: #888;
-      font-size: .9rem;
-    }
-  </style>
-</head>
-<body>
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FFD2&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+Mundo!;Hello%2C+World!)](https://git.io/typing-svg)
 
-  <div class="card">
-    <!-- Avatar -->
-    <img src="Foto-de-perfil.jpeg" alt="Avatar do usuário"/>
+<div align="center">
+  <img 
+    src="https://github.com/johann0301/johann0301/blob/main/foto-perfil-github.jpg?raw=true" 
+    alt="Foto de Perfil" 
+    width="200" 
+    height="200" 
+    style="border-radius: 50%; object-fit: cover; object-position: center; border: 2px solid #00FFD2; margin: 20px 0;" 
+  />
+</div>
 
-    <!-- Nome / Login -->
-    <h1>JoaoVictor-11</h1>
-    <!-- Biografia -->
-    <p class="bio">Olá, meu nome é João Victor Andrade, tenho 18 anos e estou cursando o primeiro período de ciências da computação na Uniesp, e quero me tornar um excelente profissional!</p>
+  
+  <h2 style="color: #00FFD2;">João Victor Andrade Nascimento Ramalho</h2>
+  <p>🎓 Estudante de Ciências da Computação | 💼 Desenvolvedor Full-Stack</p>
+  <p>📍 João Pessoa, Brasil | 18 anos</p>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD2&center=true&vCenter=true&random=false&width=435&lines=Desenvolvedor+Front-End;Entusiasta+de+Python;Sempre+aprendendo+coisas+novas!" alt="Typing SVG" />
+  
+  ![Status](https://img.shields.io/badge/Status-Disponível%20para%20projetos-00FFD2?style=for-the-badge)
+</div>
 
-    <!-- Estatísticas -->
-    <div class="stats">
-      <div>
-        <div>Seguidores</div>
-        <span>1</span>
-      </div>
-      <div>
-        <div>Seguindo</div>
-        <span>3</span>
-      </div>
-      <div>
-        <div>Repositórios</div>
-        <span>1</span>
-      </div>
-    </div>
+## 💫 Sobre Mim
 
-    <!-- Repositórios -->
-    <div class="repos">
-      <h2>Últimos repositórios</h2>
-      <ul>
-        <li>
-          <a href="https://github.com/usuario/repo1" >repo1</a>
-          <span class="stars">★ 30</span>
-        </li>
-        <li>
-          <a href="https://github.com/usuario/repo2" >repo2</a>
-          <span class="stars">★ 15</span>
-        </li>
-        <li>
-          <a href="https://github.com/usuario/repo3" >repo3</a>
-          <span class="stars">★ 8</span>
-        </li>
-        <!-- Adicione mais <li> conforme necessário -->
-      </ul>
-    </div>
-  </div>
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Johann Bezerra"
+        self.location = "João Pessoa, Brasil"
+        self.education = "Ciências da Computação"
+        self.experience = {
+            "frontend": ["HTML", "CSS", "JavaScript"],
+            "backend": ["Python", "Java"],
+            "current_focus": "Desenvolvimento Web"
+        }
+        self.interests = ["UI/UX", "Clean Code", "Novas Tecnologias"]
+        self.hobbies = ["Música", "Fotografia", "Games"]
 
-</body>
-</html>
+    def get_current_adventure(self):
+        return "Aprendendo React e aprofundando conhecimentos em JavaScript"
+
+me = Developer()
+```
+
+## 🚀 Tech Stack
+
+<div align="center">
+  
+  ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FFD2)
+  ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FFD2)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FFD2)
+  ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FFD2)
+  ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FFD2)
+  
+  ### Frontend Development
+  ![Frontend Skills](https://skillicons.dev/icons?i=html,css,js&theme=dark)
+  ```css
+  .skills {
+    design: responsive;
+    layout: modern;
+    animations: smooth;
+    javascript: intermediate;
+  }
+  ```
+  
+  ### Backend Development
+  ![Backend Skills](https://skillicons.dev/icons?i=py,java&theme=dark)
+  ```python
+  skills = {
+    "python": {
+        "automation": "expert",
+        "data_processing": "advanced",
+        "web_scraping": "intermediate"
+    },
+    "java": {
+        "core": "intermediate",
+        "oop": "advanced"
+    }
+  }
+  ```
+  
+  ### Development Tools
+  ![Tools](https://skillicons.dev/icons?i=vscode,git,github&theme=dark)
+</div>
+
+## 📫 Contato
+
+<div align="center">
+  
+  [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FFD2)](mailto:seu-email@example.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFD2)](https://www.linkedin.com/in/seu-perfil)
+  [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FFD2)](https://github.com/SeuUsuarioGitHub)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=SeuUsuarioGitHub&color=00FFD2&style=for-the-badge&label=VISITAS)
+</div>
+
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+<div align="center">
+  
+  ---
+  
+</div>
