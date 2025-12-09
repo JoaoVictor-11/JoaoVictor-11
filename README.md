@@ -1,6 +1,11 @@
-# João Victor Andrade Nascimento Ramalho
-
-Sou estudante de **Ciência da Computação**, atualmente no **3º período**, desenvolvendo conhecimentos e experiência nas áreas de desenvolvimento **back-end** e **front-end**. Busco evoluir como **desenvolvedor full-stack**, criando projetos práticos e aprimorando minhas habilidades técnicas.
+<div style="display: flex; align-items: center; gap: 16px;">
+    <img src="" alt="Foto de João Victor" width="120" style="border-radius: 8px;">
+    <div>
+        <h1>João Victor Andrade Nascimento Ramalho</h1>
+        <p>Estudante de Ciência da Computação — 3º Período</p>
+        <p>Aspirante a Desenvolvedor Full-Stack</p>
+    </div>
+</div>
 
 ---
 
@@ -23,14 +28,14 @@ Sou estudante de **Ciência da Computação**, atualmente no **3º período**, d
 
 ## Sobre
 
-Atualmente, estou construindo meu portfólio através de projetos acadêmicos e pessoais. Tenho interesse em boas práticas de desenvolvimento, estruturação de aplicações web e integração entre front-end e back-end.  
-Busco minha primeira oportunidade profissional na área de tecnologia.
+Atualmente desenvolvendo projetos pessoais e acadêmicos com foco em aplicações web, integrações e boas práticas de desenvolvimento.  
+Busco minha primeira oportunidade profissional como desenvolvedor, com interesse especial em atuar como **full-stack**.
 
 ---
 
 ## Contato
 
-Adicionarei meus links profissionais em breve.
+Links profissionais serão adicionados em breve.
 
 ---
 
