@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center; gap: 16px;">
-    <img src="" alt="Foto de João Victor" width="120" style="border-radius: 8px;">
+    <img src="https://github.com/JoaoVictor-11/JoaoVictor-11/blob/main/Foto-de-perfil.jpeg?raw=true" alt="Foto de João Victor" width="120" style="border-radius: 8px;">
     <div>
         <h1>João Victor Andrade Nascimento Ramalho</h1>
         <p>Estudante de Ciência da Computação — 3º Período</p>
