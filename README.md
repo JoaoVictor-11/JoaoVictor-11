@@ -1,44 +1,37 @@
-# 👋 Olá, eu sou o João Victor!
+# João Victor Andrade Nascimento Ramalho
 
-🎓 Estudante de **Ciência da Computação**, atualmente no **3º período**.  
-💻 Buscando me desenvolver como **Desenvolvedor Full-Stack**.  
-🚀 Sempre aprendendo, criando projetos e evoluindo na área de tecnologia.
+Sou estudante de **Ciência da Computação**, atualmente no **3º período**, desenvolvendo conhecimentos e experiência nas áreas de desenvolvimento **back-end** e **front-end**. Busco evoluir como **desenvolvedor full-stack**, criando projetos práticos e aprimorando minhas habilidades técnicas.
 
 ---
 
-## 🛠️ Tecnologias que utilizo
+## Competências Técnicas
 
-**Linguagens e ferramentas:**
+**Linguagens e Tecnologias**
 - Python  
 - Java  
 - JavaScript  
 - HTML & CSS  
 - SQL  
+
+**Frameworks e Ferramentas**
 - Flask  
-- Git & GitHub  
+- Git e GitHub  
 - VS Code  
 - Eclipse  
 
 ---
 
-## 📘 Sobre mim
+## Sobre
 
-- Ainda não trabalho na área, mas estou construindo meu portfólio e adquirindo experiência através de projetos próprios.
-- Interesso-me pelo desenvolvimento **full-stack**, buscando aprender tanto back-end quanto front-end.
-- Sempre explorando novas tecnologias e boas práticas de programação.
-
----
-
-## 📫 Como me encontrar
-
-Em breve adicionarei minhas redes profissionais aqui!
+Atualmente, estou construindo meu portfólio através de projetos acadêmicos e pessoais. Tenho interesse em boas práticas de desenvolvimento, estruturação de aplicações web e integração entre front-end e back-end.  
+Busco minha primeira oportunidade profissional na área de tecnologia.
 
 ---
 
-## 📊 GitHub Stats (opcional)
+## Contato
 
-> Caso queira ativar depois, posso configurar com seu nome de usuário.
+Adicionarei meus links profissionais em breve.
 
 ---
-Obrigado pela visita! 😄  
-Sinta-se à vontade para explorar meus repositórios.
+
+Obrigado pela visita ao meu perfil.
